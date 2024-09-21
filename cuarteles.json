@@ -1,0 +1,16 @@
+[
+    {
+        "idCuartel": "1",
+        "nombre": "Cuartel de los pollos asados",
+        "ubicacion": "En la puta mierda",
+        "despliegues": [
+            {
+                "idDespliegue": "1",
+                "informacion": "Despliegue de combate",
+                "fecha": "2024-09-08T00:00:00",
+                "cuartel": null,
+                "compania": null
+            }
+        ]
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "idCompania": "1",
+        "nombre": "Compa\u00f1ia los Lechudos",
+        "actividad": "Poner a voltear como un hp",
+        "soldados": [
+            {
+                "idSoldado": "1",
+                "nombre": "Daner Alejandro Salazar Colorado",
+                "ubicacion": "Teniente Salazar",
+                "serviciosRealizados": []
+            }
+        ],
+        "despliegues": [
+            {
+                "idDespliegue": "1",
+                "informacion": "Despliegue de combate",
+                "fecha": "2024-09-08T00:00:00",
+                "cuartel": null,
+                "compania": null
+            }
+        ]
+    }
+]

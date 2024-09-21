@@ -1,0 +1,27 @@
+[
+    {
+        "type": "Infanteria",
+        "id": "1",
+        "nombre": "Batallon de Combate",
+        "informacion": "Guerra",
+        "cuarteles": [],
+        "soldados": [
+            {
+                "idSoldado": "1",
+                "nombre": "Daner Alejandro Salazar Colorado",
+                "ubicacion": "Teniente Salazar",
+                "serviciosRealizados": [
+                    {
+                        "idServicioRealizado": "1",
+                        "actividad": "Guerra",
+                        "fecha": "2024-08-09T00:00:00",
+                        "soldado": null,
+                        "servicio": null
+                    }
+                ]
+            }
+        ],
+        "tipoInfanteria": "Balas",
+        "equipoEspecializado": "bala"
+    }
+]

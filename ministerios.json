@@ -1,0 +1,19 @@
+[
+    {
+        "id": "2",
+        "nombre": "Ministerio del Interior ",
+        "informacion": "El de los Bomberos",
+        "cuerpos": [
+            {
+                "type": "Infanteria",
+                "id": "1",
+                "nombre": "Batallon de Combate",
+                "informacion": "Guerra",
+                "cuarteles": [],
+                "soldados": [],
+                "tipoInfanteria": "Balas",
+                "equipoEspecializado": "bala"
+            }
+        ]
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "type": "Guardia",
+        "idServicio": "1",
+        "descripcion": "Vigilante de tiempo ",
+        "serviciosRealizados": [],
+        "tipoGuardia": "Nocturno",
+        "duracion": 34
+    }
+]
