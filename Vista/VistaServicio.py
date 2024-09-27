@@ -71,7 +71,7 @@ class VistaServicio:
             atributo1 = input("Ingrese el primer atributo adicional (Frecuencia): ")
             atributo2 = input("Ingrese el segundo atributo adicional (Tipo): ")
             cuerpo = Imaginaria(idServicio, descripcion, atributo1, atributo2)
-        elif tipo == 'Cuartelero':
+        elif tipo == 'cuartelero':
             atributo1 = input("Ingrese el primer atributo adicional (Turno): ")
             atributo2 = input("Ingrese el segundo atributo adicional (Ubicación): ")
             cuerpo = Cuartelero(idServicio,descripcion, atributo1, atributo2)

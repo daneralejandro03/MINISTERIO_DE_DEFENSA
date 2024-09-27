@@ -63,7 +63,7 @@ class ControladorCuartel(Repositorio, Persistencia):
         data = [cuartel.to_dict() for cuartel in self.cuarteles]
         with open(archivo, 'w') as f:
             json.dump(data, f, indent=4)
-        print(f"Cuarteles guardados en {archivo}")
+        print(f"Cuarteles guardrooms en {archivo}")
 
     def cargar(self, archivo: str) -> None:
         """Carga ministerios desde un archivo JSON"""
